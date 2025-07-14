@@ -60,7 +60,7 @@ a {
 }
 
 .sushi__subtitle {
-  font-size: 18px;
+  font-size: 30px;
   font-weight: 400;
   font-family: var(--plus-jakarta-sans);
 
@@ -81,7 +81,7 @@ a {
 }
 
 .sushi__description {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
   font-family: var(--plus-jakarta-sans);
 
